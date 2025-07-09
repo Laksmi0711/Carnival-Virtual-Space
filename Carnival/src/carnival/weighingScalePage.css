@@ -1,0 +1,14 @@
+#AnchorPane{
+    -fx-background-image: url("field.jpg");
+    -fx-background-size: cover;
+}
+
+#scaleMachine{
+    -fx-background-image: url("scale.png");
+    -fx-background-size: cover;
+}
+
+#scaleBtn{
+    -fx-background-image: url("scale.png");
+    -fx-background-size: cover;
+}
